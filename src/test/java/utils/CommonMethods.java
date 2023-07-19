@@ -61,6 +61,7 @@ public class CommonMethods extends PageInitializer {
 		Log.startTestCase("This is the beginning of my test case ");
 		Log.info("My test case id executing right now");
 		Log.warning("My test case might have some trivial issue");
+		// final
 	}
 
 	/**
